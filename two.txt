@@ -4,3 +4,6 @@ line3
 line4
 I added a new line
 This line is added on new branch dev
+
+
+new feature is added
